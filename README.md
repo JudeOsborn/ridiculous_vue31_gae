@@ -1,6 +1,6 @@
-# Ridiculously Simple Vue + App Engine
+# Ridiculously Simple Vue 3.1 + App Engine
 
-Absolutely the simplest Vue + App Engine web app I could imagine. 
+Absolutely the simplest Vue 3.1 + App Engine web app I could imagine. 
 
 No backend. Everything goes through the .yaml file. 
 
